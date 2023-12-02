@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Library Management System - Backend
 
 This repository contains the backend implementation of a Library Management System, providing REST APIs for managing books, members, and user authentication.
@@ -141,6 +139,3 @@ This guide will walk you through the process of hosting the backend of the libra
 ## Documentation
 
 Detailed design and implementation choices are documented in the `/docs` directory.
-
-
->>>>>>> 2fdb20d576d0c44f46ffa822be16ca8abc015aa5
