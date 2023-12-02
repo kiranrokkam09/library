@@ -139,3 +139,6 @@ This guide will walk you through the process of hosting the backend of the libra
 ## Documentation
 
 Detailed design and implementation choices are documented in the `/docs` directory.
+
+## NOTE:
+Only Admin can create members in the library. The default credentials of Admin are **Username: "admin"** and **Password: "admin"**. 
