@@ -133,7 +133,7 @@ This guide will walk you through the process of hosting the backend of the libra
 
 - Backend Repository: [Link to Backend Repo](https://github.com/kiranrokkam09/library)
 - Frontend Repository: [Link to Frontend Repo](https://github.com/kiranrokkam09/library_static)
-- Backend Deployment: [Link to Deployed Backend](https://kiran1432.pythonanywhere.com/%5d)
+- Backend Deployment: [Link to Deployed Backend](https://kiran1432.pythonanywhere.com)
 - Frontend Deployment: [Link to Deployed Frontend](https://library-static-1owi.vercel.app/)
 
 ## Documentation
